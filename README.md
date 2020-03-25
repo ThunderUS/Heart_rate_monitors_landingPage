@@ -8,3 +8,5 @@ Commits:
 2_commit --> init gulp & add img, icons, index.html, sass files, readme.md, gitignor.
 
 3_commit --> import Fonts, create variables, mixins. Last commit before start working.
+
+4_commit --> finished first screen(promo) 
