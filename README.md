@@ -12,3 +12,5 @@ Commits:
 4_commit --> finished first screen(promo) 
 
 5_commit --> finished second screen (advantages)
+
+6_commit --> finished site adaptation for mobile extensions (1200/991/768/576/320)
