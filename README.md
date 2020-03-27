@@ -10,3 +10,5 @@ Commits:
 3_commit --> import Fonts, create variables, mixins. Last commit before start working.
 
 4_commit --> finished first screen(promo) 
+
+5_commit --> finished second screen (advantages)
