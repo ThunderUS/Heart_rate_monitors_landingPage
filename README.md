@@ -18,3 +18,5 @@ Commits:
 7_commit --> finished consultation screen
 
 8_commit --> finished consultation screen adaptation for mobile extensions (1200/991/768/576/320)
+
+9_commit --> finished slider
