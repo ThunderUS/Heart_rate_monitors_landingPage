@@ -22,3 +22,5 @@ Commits:
 9_commit --> finished slider
 
 10_commit --> finished TABS section, add 2 js-script (script.js)
+
+11_commit --> finished Reviews section.

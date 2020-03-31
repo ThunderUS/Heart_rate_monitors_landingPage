@@ -1,0 +1,31 @@
+.reviews{
+    hr{
+        width: 940px;
+        height: 1px;
+        background-color: #f6f6f6;
+        border-bottom: none;
+        margin: 0;
+    }
+    &__items{
+        margin-top: 53px;
+        padding-bottom: 48px;
+        display: flex;
+        align-items: flex-start;
+        &__img{
+            display: block;
+            width: 169px;
+            height: 169px;
+        }
+        &__item{
+            width: 650px;
+            margin-left: 62px;
+
+        }
+        &__text{
+            color: #0d0d0d;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 22px;
+        }
+    }
+}
