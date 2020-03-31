@@ -20,3 +20,5 @@ Commits:
 8_commit --> finished consultation screen adaptation for mobile extensions (1200/991/768/576/320)
 
 9_commit --> finished slider
+
+10_commit --> finished TABS section, add 2 js-script (script.js)
