@@ -11,10 +11,14 @@
         padding-bottom: 48px;
         display: flex;
         align-items: flex-start;
-        &__img{
-            display: block;
+        &__wrapper_img{
+            
             width: 169px;
             height: 169px;
+            &__img{
+                width: 100%;
+                
+            }
         }
         &__item{
             width: 650px;

@@ -11,7 +11,16 @@ $(document).ready(function () {
                    dots: true,
                    arrows:false,
                 }
-            }
+                
+            },
+            {
+                breakpoint: 320,
+                setting:{
+                   dots: true,
+                   arrows:false, 
+                }
+            },
+            
         ]
 
         

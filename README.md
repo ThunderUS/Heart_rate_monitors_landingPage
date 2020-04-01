@@ -24,3 +24,5 @@ Commits:
 10_commit --> finished TABS section, add 2 js-script (script.js)
 
 11_commit --> finished Reviews section.
+
+12_commit --> Screen adaptation for mobile extensions (1200/991/768/576/320)
