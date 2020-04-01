@@ -25,4 +25,6 @@ Commits:
 
 11_commit --> finished Reviews section.
 
-12_commit --> Screen adaptation for mobile extensions (1200/991/768/576/320)
+12_commit --> Screens adaptation for mobile extensions (1200/991/768/576/320)
+
+13_commit --> finished Footer (+ google map)
