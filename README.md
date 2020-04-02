@@ -28,3 +28,5 @@ Commits:
 12_commit --> Screens adaptation for mobile extensions (1200/991/768/576/320)
 
 13_commit --> finished Footer (+ google map)
+
+14_commit --> finished footer adaptation for mobile extensions (1200/991/768/576/320)
