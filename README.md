@@ -30,3 +30,5 @@ Commits:
 13_commit --> finished Footer (+ google map)
 
 14_commit --> finished footer adaptation for mobile extensions (1200/991/768/576/320)
+
+15_commit --> finished Modal windows
