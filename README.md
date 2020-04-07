@@ -32,3 +32,7 @@ Commits:
 14_commit --> finished footer adaptation for mobile extensions (1200/991/768/576/320)
 
 15_commit --> finished Modal windows
+
+16_commit --> add forms validation, phone mask.3
+
+17_commit --> add page up button JS
