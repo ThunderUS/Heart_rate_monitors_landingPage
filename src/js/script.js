@@ -67,5 +67,55 @@ $(document).ready(function () {
             $('.overlay, #order').fadeIn('slow');
         });
     });
+/* 
+    $('#consultation-form').validate();
+    $('#consultation form').validate({
+        rules:{
+            name: "required",
+            phone: "required",
+            email: {
+                required: true,
+                email: true
+            }
+        },
+        messages: {
+            name: "Пожалуйста введите свое имя",
+            phone: "Пожалуйста введите свой телефон",
+            email: {
+              required: "Пожалуйста введите свою почту",
+              email: "Your email address must be in the format of name@domain.com"
+            }
+          }
+        
+    });
+    $('#order form').validate();
+ */
+    function validateForms(form){
+        $(form).validate({
+            rules:{
+                name: "required",
+                phone: "required",
+                email: {
+                    required: true,
+                    email: true
+                }
+            },
+            messages: {
+                name: "Пожалуйста введите свое имя",
+                phone: "Пожалуйста введите свой телефон",
+                email: {
+                  required: "Пожалуйста введите свою почту",
+                  email: "Your email address must be in the format of name@domain.com"
+                }
+              }
+            
+        });
+    };
+
+    validateForms("#consultation-form");
+    validateForms("#consultation form");
+    validateForms("#order form");
+
+    $('input[name="phone"').mask("+7 (999) 999-99-99");
 
 });
