@@ -33,6 +33,8 @@ Commits:
 
 15_commit --> finished Modal windows
 
-16_commit --> add forms validation, phone mask.3
+16_commit --> add forms validation, phone mask.
 
 17_commit --> add page up button JS
+
+18_commit --> finished project(mail,clean dist)
